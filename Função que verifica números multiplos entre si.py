@@ -22,6 +22,6 @@ def is_multiple(a,b):
         return(False)
 
 
-is_multiple(n1,n2):
+is_multiple(n1,n2)
 
 
