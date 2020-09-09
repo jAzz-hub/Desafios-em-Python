@@ -23,3 +23,4 @@ print(f'o maior valor foi {l[4]}')
 
 
 print(f'e o menor valor foi {l[0]}')
+
